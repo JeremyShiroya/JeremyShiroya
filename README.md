@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Jeremy Shiroya
 
 # 💫 About Me:
 🔭 I’m currently specializing in fullstack development<br>🌱 I’m currently working with HTML, Css, Javascript, Php, VueJs and Laravel<br>💬 Ask me about VueJs<br>
