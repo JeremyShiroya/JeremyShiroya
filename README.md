@@ -5,9 +5,9 @@
 <h1 align="center">Frontend Developer & UI/UX Designer</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeremy-shiroya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wa.me/2540113562018"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="mailto:jeremy@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/jeremy-shiroya/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/2540113562018" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:jeremystanleyshiroya@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <div align="center">
@@ -26,16 +26,16 @@ I'm a passionate frontend developer and UI/UX designer with a keen eye for creat
       <td valign="top" width="50%">
         <h3 align="center">Frontend</h3>
         <div align="center">
-          <a href="https://vuejs.org/" target="_blank">
+          <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
           </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
           </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
           </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
           </a>
         </div>
@@ -43,16 +43,16 @@ I'm a passionate frontend developer and UI/UX designer with a keen eye for creat
       <td valign="top" width="50%">
         <h3 align="center">Design Tools</h3>
         <div align="center">
-          <a href="https://www.blender.org/" target="_blank">
+          <a href="https://www.blender.org/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
           </a>
-          <a href="https://www.canva.com/" target="_blank">
+          <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
           </a>
-          <a href="https://www.figma.com/" target="_blank">
+          <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
           </a>
-          <a href="https://vercel.com/" target="_blank">
+          <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
           </a>
         </div>
@@ -94,10 +94,10 @@ I believe in creating digital experiences that are not only visually appealing b
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jeremy-shiroya/" target="_blank">
+  <a href="https://www.linkedin.com/in/jeremy-shiroya/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://wa.me/2540113562018" target="_blank">
+  <a href="https://wa.me/2540113562018" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
