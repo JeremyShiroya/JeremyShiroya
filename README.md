@@ -1,139 +1,124 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeremy%20Shiroya&fontSize=80&fontAlignY=35&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeremy+Shiroya;Frontend+Developer+%26+UI%2FUX+Designer;Crafting+Digital+Experiences" alt="Typing SVG" />
 </div>
-
-<h1 align="center">Frontend Developer & UI/UX Designer</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jeremyshiroya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/jeremyshiroya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:jeremy@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/jeremyshiroya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/jeremyshiroya" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:jeremy.shiroya@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://jeremyshiroya.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-41B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
+## 👨‍💻 About Me
+
+I'm a passionate frontend developer and UI/UX designer with a keen eye for detail and a love for creating beautiful, functional digital experiences. My approach combines technical expertise with design sensibility to build interfaces that are not only visually appealing but also intuitive and user-friendly.
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Problem+Solver;Vue.js+Enthusiast" alt="Typing SVG" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyshiroya&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-## 🚀 About Me
-
-I'm a passionate frontend developer and UI/UX designer with a keen eye for creating beautiful, functional, and user-friendly digital experiences. I specialize in Vue.js development and have a strong foundation in HTML, CSS, and JavaScript. My design skills include working with Blender for 3D modeling, Canva and Figma for UI/UX design, and deploying applications on Vercel.
-
-## 🛠️ My Tech Universe
+## 🎨 My Creative Arsenal
 
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <a href="https://vuejs.org/" target="_blank">
-            <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-          </a>
-        </div>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue.js" width="65" height="65" />
+        <br>Vue.js
       </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Design Tools</h3>
-        <div align="center">
-          <a href="https://www.blender.org/" target="_blank">
-            <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-          </a>
-          <a href="https://www.canva.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-          </a>
-          <a href="https://www.figma.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-          </a>
-        </div>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
       </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Deployment</h3>
-        <div align="center">
-          <a href="https://vercel.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-          </a>
-        </div>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+        <br>HTML
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="48" height="48" />
+        <br>Blender
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="48" height="48" />
+        <br>Canva
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48" />
+        <br>Git
       </td>
     </tr>
   </table>
 </div>
 
-## 🎨 Design Philosophy
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&quoteCategory=programming" />
-</div>
-
-I believe in creating digital experiences that are not only visually appealing but also intuitive and accessible. My approach combines aesthetic design principles with practical functionality to deliver solutions that delight users and meet business objectives.
-
-## 📊 GitHub Stats Reimagined
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeremyshiroya&theme=nord&column=7&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeremyshiroya&theme=vue" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jeremyshiroya&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jeremy Shiroya github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyshiroya&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyshiroya&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
 </div>
 
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremyshiroya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jeremyshiroya&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/jeremyshiroya/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=project1&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <a href="https://github.com/jeremyshiroya/awesome-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=awesome-project&theme=vue&hide_border=true" alt="Awesome Project" />
   </a>
-  <a href="https://github.com/jeremyshiroya/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=project2&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-  <a href="https://github.com/jeremyshiroya/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=project3&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-  <a href="https://github.com/jeremyshiroya/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=project4&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <a href="https://github.com/jeremyshiroya/vue-design-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=vue-design-system&theme=vue&hide_border=true" alt="Vue Design System" />
   </a>
 </div>
 
-## 🔄 What I'm Currently Working On
+## 💡 My Design Philosophy
 
-- 🌱 Exploring advanced Vue.js patterns and performance optimization
-- 🎨 Enhancing my 3D modeling skills in Blender
-- 🚀 Building interactive web experiences with creative animations
-- 📱 Improving responsive design techniques for seamless cross-device experiences
+```vue
+<template>
+  <div class="design-philosophy">
+    <h3>{{ title }}</h3>
+    <p v-for="(principle, index) in principles" :key="index">
+      {{ principle }}
+    </p>
+  </div>
+</template>
 
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/jeremyshiroya" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://twitter.com/jeremyshiroya" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-  <a href="https://dev.to/jeremyshiroya" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
-  </a>
-  <a href="https://codepen.io/jeremyshiroya" target="_blank">
-    <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeremyshiroya&style=flat-square&color=blue" alt="Profile views" />
-</div>
+<script>
+export default {
+  data() {
+    return {
+      title: "Design Principles",
+      principles: [
+        "User-centered approach in everything I create",
+        "Clean, minimalist aesthetics with purpose",
+        "Attention to detail that elevates the experience",
+        "Functional beauty that solves real problems"
+      ]
+    }
+  }
+}
+</script>
