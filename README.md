@@ -5,8 +5,8 @@
 <h1 align="center">Frontend Developer & UI/UX Designer</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jeremyshiroya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/jeremyshiroya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/jeremy-shiroya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/2540113562018"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="mailto:jeremy@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -16,14 +16,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate frontend developer and UI/UX designer with a keen eye for creating beautiful, functional, and user-friendly digital experiences. I specialize in Vue.js development and have a strong foundation in HTML, CSS, and JavaScript. My design skills include working with Blender for 3D modeling, Canva and Figma for UI/UX design, and deploying applications on Vercel.
+I'm a passionate frontend developer and UI/UX designer with a keen eye for creating beautiful, functional, and user-friendly digital experiences. I specialize in Vue.js development and have a strong foundation in HTML, CSS, and JavaScript. My design skills include working with Blender for 3D modeling, Canva and Figma for UI/UX design.
 
 ## 🛠️ My Tech Universe
 
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="33%">
+      <td valign="top" width="50%">
         <h3 align="center">Frontend</h3>
         <div align="center">
           <a href="https://vuejs.org/" target="_blank">
@@ -40,7 +40,7 @@ I'm a passionate frontend developer and UI/UX designer with a keen eye for creat
           </a>
         </div>
       </td>
-      <td valign="top" width="33%">
+      <td valign="top" width="50%">
         <h3 align="center">Design Tools</h3>
         <div align="center">
           <a href="https://www.blender.org/" target="_blank">
@@ -52,11 +52,6 @@ I'm a passionate frontend developer and UI/UX designer with a keen eye for creat
           <a href="https://www.figma.com/" target="_blank">
             <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
           </a>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Deployment</h3>
-        <div align="center">
           <a href="https://vercel.com/" target="_blank">
             <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
           </a>
@@ -92,17 +87,26 @@ I believe in creating digital experiences that are not only visually appealing b
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/jeremyshiroya/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=project1&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <a href="https://nairobifeast.com" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=nairobifeast&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
-  <a href="https://github.com/jeremyshiroya/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=project2&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <a href="https://palasi.vercel.app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=palasi&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
-  <a href="https://github.com/jeremyshiroya/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=project3&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <a href="https://scaperrr.vercel.app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=scaperrr&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
-  <a href="https://github.com/jeremyshiroya/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=project4&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <a href="https://muralmuse.codeverseke.dev" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=muralmuse&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://gizmos.codeverseke.dev" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=gizmos&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  </a>
+  <a href="https://ravenstudio.vercel.app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=ravenstudio&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
 </div>
 
@@ -116,17 +120,11 @@ I believe in creating digital experiences that are not only visually appealing b
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/jeremyshiroya" target="_blank">
+  <a href="https://www.linkedin.com/in/jeremy-shiroya/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://twitter.com/jeremyshiroya" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-  </a>
-  <a href="https://dev.to/jeremyshiroya" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
-  </a>
-  <a href="https://codepen.io/jeremyshiroya" target="_blank">
-    <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
+  <a href="https://wa.me/2540113562018" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
@@ -137,25 +135,3 @@ I believe in creating digital experiences that are not only visually appealing b
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jeremyshiroya&style=flat-square&color=blue" alt="Profile views" />
 </div>
-```
-
-This README includes:
-
-1. **Eye-catching header** with animated waving design and typing effect
-2. **Professional introduction** highlighting your skills and expertise
-3. **Creative tech stack display** organized in a table with colorful badges
-4. **Stylish GitHub stats** using multiple visualizations:
-   - Trophy collection
-   - Stats and language cards with custom theming
-   - Activity graph with a modern design
-5. **Featured projects** section with custom-styled repository cards
-6. **Current work** section showing your ongoing interests
-7. **Contact information** with stylish social media badges
-8. **Profile view counter** and footer wave design
-
-You can customize this README by:
-- Updating the social media links with your actual profiles
-- Adding your real GitHub repository names to the featured projects section
-- Adjusting the colors and themes to match your personal brand
-- Adding or removing sections based on your preferences
-
