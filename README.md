@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jeremy%20Shiroya&fontSize=80&fontAlignY=35&animation=fadeIn" />
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-GTlu86VGNlIU8hzqTR3GOSwxCeul9r.png" alt="Jeremy Shiroya" width="100%" />
 </div>
 
 <h1 align="center">Frontend Developer & UI/UX Designer</h1>
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Problem+Solver;Vue.js+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C93030&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Problem+Solver;Vue.js+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -72,41 +72,38 @@ I believe in creating digital experiences that are not only visually appealing b
 ## 📊 GitHub Stats Reimagined
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeremyshiroya&theme=nord&column=7&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jeremyshiroya&theme=darkhub&column=7&no-frame=true&no-bg=true" />
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jeremyshiroya&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jeremy Shiroya github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyshiroya&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jeremyshiroya&show_icons=true&count_private=true&hide_border=true&title_color=C93030&icon_color=C93030&text_color=c9d1d9&bg_color=0d1117" alt="Jeremy Shiroya github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyshiroya&layout=compact&hide_border=true&title_color=C93030&text_color=C93030&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremyshiroya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremyshiroya&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%"/>
 </div>
 
-## 🌟 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="Star" width="25" height="25" /> Featured Projects
 
-<div align="center">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <a href="https://nairobifeast.com" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=nairobifeast&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=nairobifeast&theme=react&bg_color=0D1117&title_color=C93030&icon_color=F8D866&hide_border=true&show_icons=false" alt="nairobifeast" />
   </a>
   <a href="https://palasi.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=palasi&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=palasi&theme=react&bg_color=0D1117&title_color=C93030&icon_color=F8D866&hide_border=true&show_icons=false" alt="palasi" />
   </a>
   <a href="https://scaperrr.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=scaperrr&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=scaperrr&theme=react&bg_color=0D1117&title_color=C93030&icon_color=F8D866&hide_border=true&show_icons=false" alt="scaperrr" />
   </a>
   <a href="https://muralmuse.codeverseke.dev" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=muralmuse&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=muralmuse&theme=react&bg_color=0D1117&title_color=C93030&icon_color=F8D866&hide_border=true&show_icons=false" alt="muralmuse" />
   </a>
-</div>
-
-<div align="center">
   <a href="https://gizmos.codeverseke.dev" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=gizmos&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=gizmos&theme=react&bg_color=0D1117&title_color=C93030&icon_color=F8D866&hide_border=true&show_icons=false" alt="gizmos" />
   </a>
   <a href="https://ravenstudio.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=ravenstudio&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=ravenstudio&theme=react&bg_color=0D1117&title_color=C93030&icon_color=F8D866&hide_border=true&show_icons=false" alt="ravenstudio" />
   </a>
 </div>
 
@@ -129,9 +126,9 @@ I believe in creating digital experiences that are not only visually appealing b
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C93030&height=120&section=footer" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeremyshiroya&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jeremyshiroya&style=flat-square&color=C93030" alt="Profile views" />
 </div>
