@@ -84,34 +84,6 @@ I believe in creating digital experiences that are not only visually appealing b
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeremyshiroya&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%"/>
 </div>
 
-## ![Star](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-65GRJ3LLr8qUXvueIxB7splibuyU75.png) Featured Projects
-
-<div align="center">
-  <a href="https://nairobifeast.com" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=nairobifeast&theme=dark&bg_color=0D1117&title_color=FF0000&icon_color=F8D866&hide_border=false&show_icons=false" alt="nairobifeast" />
-  </a>
-  
-  <a href="https://palasi.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=palasi&theme=dark&bg_color=0D1117&title_color=FF0000&icon_color=F8D866&hide_border=false&show_icons=false" alt="palasi" />
-  </a>
-  
-  <a href="https://scaperrr.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=scaperrr&theme=dark&bg_color=0D1117&title_color=FF0000&icon_color=F8D866&hide_border=false&show_icons=false" alt="scaperrr" />
-  </a>
-  
-  <a href="https://muralmuse.codeverseke.dev" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=muralmuse&theme=dark&bg_color=0D1117&title_color=FF0000&icon_color=F8D866&hide_border=false&show_icons=false" alt="muralmuse" />
-  </a>
-  
-  <a href="https://gizmos.codeverseke.dev" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=gizmos&theme=dark&bg_color=0D1117&title_color=FF0000&icon_color=F8D866&hide_border=false&show_icons=false" alt="gizmos" />
-  </a>
-  
-  <a href="https://ravenstudio.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyshiroya&repo=ravenstudio&theme=dark&bg_color=0D1117&title_color=FF0000&icon_color=F8D866&hide_border=false&show_icons=false" alt="ravenstudio" />
-  </a>
-</div>
-
 ## 🔄 What I'm Currently Working On
 
 - 🌱 Exploring advanced Vue.js patterns and performance optimization
@@ -137,6 +109,7 @@ I believe in creating digital experiences that are not only visually appealing b
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jeremyshiroya&style=flat-square&color=C93030" alt="Profile views" />
 </div>
+```
 ```
 
 
