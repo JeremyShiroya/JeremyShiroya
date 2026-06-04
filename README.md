@@ -24,10 +24,38 @@ From social platforms to e-commerce to audiobook players — I design and ship t
 ## Selected Works
 
 <img src="./works/image-1.png" width="100%" alt="Bookish — Personal digital library & audiobook player" />
-<img src="./works/NajiBudget.webp" width="100%" alt="Najibudget — Smart budget tracker & spending insights" />
-<img src="./works/Nairobi Feast.webp" width="100%" alt="Palasi — Luxury furniture e-commerce with admin dashboard" />
-<img src="./works/Modaaals.webp" width="100%" alt="Rewind — Full-stack social media with real-time messaging" />
-<img src="./works/Palasi.webp" width="100%" alt="Palasi — Luxury furniture e-commerce with admin dashboard" />
+
+<br />
+
+<img src="./works/NajiBudget.webp" width="100%" alt="NajiBudget — Smart budget tracker & spending insights" />
+
+**NajiBudget** &emsp; *Dec 2025 – Present*
+
+NajiBudget is a personal finance mobile app that helps you build healthier spending habits. With automated SMS transaction tracking, predictive budget forecasting, and intuitive analytics, it gives you the clarity and control you need to stay organised and shape a stronger financial future.
+
+<br />
+
+<img src="./works/Nairobi Feast.webp" width="100%" alt="Nairobi Feast — Food discovery platform" />
+
+**Nairobi Feast** &emsp; *Dec 2025 – Present*
+
+A vibrant food discovery platform that connects users to the best culinary experiences across Nairobi. It features restaurant listings, user reviews, curated food events, and interactive maps — making it easy for food lovers to explore new dishes, eateries, and hidden gems in the city.
+
+<br />
+
+<img src="./works/Modaaals.webp" width="100%" alt="Modaaals — Modal library" />
+
+**Modaaals** &emsp; *Jan 2025 – June 2025*
+
+A sleek modal library that helps you build beautiful, accessible, and customisable dialogs — complete with smooth animations, keyboard support, and responsive design. Everything you need for polished, user-friendly modals in one place.
+
+<br />
+
+<img src="./works/Palasi.webp" width="100%" alt="Palasi — Luxury home décor & furniture" />
+
+**Palasi** &emsp; *April 2025*
+
+Where elegance meets comfort. Palasi is a destination for timeless home décor, blending modern luxury with classic charm. From statement pieces to subtle accents, it turns your space into a refined sanctuary. Discover the art of living beautifully.
 
 <br />
 
