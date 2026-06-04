@@ -23,7 +23,7 @@ From social platforms to e-commerce to audiobook players — I design and ship t
 
 ## Selected Works
 
-<img src="./works/bookish.png" width="100%" alt="Bookish — Personal digital library & audiobook player" />
+<img src="./works/image-1.png" width="100%" alt="Bookish — Personal digital library & audiobook player" />
 <img src="./works/najibudget.png" width="100%" alt="Najibudget — Smart budget tracker & spending insights" />
 <img src="./works/palasi.png" width="100%" alt="Palasi — Luxury furniture e-commerce with admin dashboard" />
 <img src="./works/rewind.png" width="100%" alt="Rewind — Full-stack social media with real-time messaging" />
