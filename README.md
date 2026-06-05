@@ -27,7 +27,7 @@ From social platforms to e-commerce to audiobook players — I design and ship t
 
 ### Bookish &ensp; <sup>*Nov 2025 – Present*</sup>
 
-Your entire reading life in one place. Bookish is a personal digital library and audiobook player — upload your EPUB and PDF collection, read in a distraction-free built-in reader, and listen to any book with AI-powered text-to-speech that highlights each word as it speaks. It automatically pulls in cover art, ratings, and blurbs from Goodreads, Google Books, and Open Library so your library always looks its best.
+Bookish is a personal digital library and audiobook player — upload your EPUB and PDF collection, read in a distraction-free built-in reader, and listen to any book with AI-powered text-to-speech that highlights each word as it speaks. Automation of metadata fetching in cover art, ratings, and blurbs from Goodreads, Google Books, and Open Library so your library always looks its best.
 
 <br />
 
