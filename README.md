@@ -23,21 +23,21 @@ From social platforms to e-commerce to audiobook players — I design and ship t
 
 ## Selected Works
 
-<img src="./works/image-1.png" width="100%" alt="Bookish — Personal digital library & audiobook player" />
+<img src="./works/Pages Figma Mockup.webp" width="100%" alt="Pages — Personal digital library & audiobook player" />
 
-### Bookish &ensp; <sup>*May 2026 – Present*</sup>
+### Pages &ensp; <sup>*May 2026 – Present*</sup>
 
-Bookish is a free open-source digital library and audiobook player that lets users read and listen to their books using high-quality, natural-sounding Microsoft Azure voices. It also automatically fetches metadata, including cover art, ratings, and blurbs from sources like Goodreads, Google Books, and Open Library, keeping your library organized, polished, and visually rich.
+Pages is a free open-source digital library and audiobook player that lets users read and listen to their books using high-quality, natural-sounding Microsoft Azure voices. It also automatically fetches metadata, including cover art, ratings, and blurbs from sources like Goodreads, Google Books, and Open Library, keeping your library organized, polished, and visually rich.
 
 <br />
 
-<img src="./works/NajiBudget.webp" width="100%" alt="NajiBudget — Smart budget tracker & spending insights" />
+<!-- <img src="./works/NajiBudget.webp" width="100%" alt="NajiBudget — Smart budget tracker & spending insights" />
 
 ### NajiBudget &ensp; <sup>*Dec 2025 – Present*</sup>
 
 NajiBudget is a personal finance mobile app that helps you build healthier spending habits. With automated SMS transaction tracking, predictive budget forecasting, and intuitive analytics, it gives you the clarity and control you need to stay organised and shape a stronger financial future.
 
-<br />
+<br /> -->
 
 <img src="./works/Nairobi Feast.webp" width="100%" alt="Nairobi Feast — Food discovery platform" />
 
